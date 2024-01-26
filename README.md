@@ -44,7 +44,7 @@ Oxylabs API key (for web scraping)
 1. Clone the repository:
 
     ```bash
-    gh repo clone CSEcoolgamer/Booking-clone
+    git clone https://github.com/CSEcoolgamer/Booking-clone.git
     ```
 
 2. Navigate to the project directory:
